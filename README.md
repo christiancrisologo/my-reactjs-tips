@@ -1,2 +1,2 @@
 # my-reactjs-tips
-Some tips for React JS .
+Some tips for React JS . .
